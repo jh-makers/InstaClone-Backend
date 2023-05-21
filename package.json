@@ -1,0 +1,19 @@
+{
+  "name": "instaClone",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jh-makers/InstaClone-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jh-makers/InstaClone-Backend/issues"
+  },
+  "homepage": "https://github.com/jh-makers/InstaClone-Backend#readme"
+}
