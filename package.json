@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jh-makers/InstaClone-Backend/issues"
   },
-  "homepage": "https://github.com/jh-makers/InstaClone-Backend#readme"
+  "homepage": "https://github.com/jh-makers/InstaClone-Backend#readme",
+  "dependencies": {
+    "apollo-server": "^2.25.2",
+    "graphql": "^15.4.0"
+  }
 }
